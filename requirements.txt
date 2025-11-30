@@ -1,0 +1,9 @@
+fastapi==0.95.2
+uvicorn[standard]==0.22.0
+ultralytics==8.3.233
+opencv-python==4.12.0.88
+mediapipe==0.10.21
+numpy
+python-dotenv
+cloudinary
+requests
